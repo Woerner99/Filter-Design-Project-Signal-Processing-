@@ -1,0 +1,2 @@
+# Filter-Design-Project-Signal-Processing-
+The purpose of this project is to design a filter that removes unwanted noise from an audio file. This will be accomplished by incorporating the paper design of a Butterworth lowpass filter. This deigned filter will then be implemented in MATLAB and used to filter a given audio file, comparing it to the unfiltered audio file. This process will consist of the following steps: 1. Audio Frequency Analysis 2. Filter Design 3. Filter Implementation 
